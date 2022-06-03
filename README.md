@@ -4,6 +4,10 @@
 # Install
 Clone this project and open with Android Studio \ Idea, then you can test it on your smartphone
 
+```
+git clone https://github.com/AnyashaTk/Yall.git
+```
+
 # Use for
 The main idea was to create a signaling for the phone
 
